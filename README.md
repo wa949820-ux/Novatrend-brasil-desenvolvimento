@@ -20,3 +20,36 @@ Projeto de site estático para GitHub Pages.
 - `css/style.css`
 - `js/script.js`
 - `js/produtos.js`
+- novatrend-brasil/
+│
+├── index.html
+├── produtos.html
+├── produto.html
+├── carrinho.html
+├── checkout.html
+├── login.html
+├── cadastro.html
+├── contato.html
+│
+├── admin/
+│   ├── index.html
+│   ├── produtos.html
+│   ├── pedidos.html
+│   ├── clientes.html
+│   └── dashboard.html
+│
+├── css/
+│   ├── style.css
+│   ├── admin.css
+│   └── responsivo.css
+│
+├── js/
+│   ├── app.js
+│   ├── carrinho.js
+│   ├── produtos.js
+│   ├── firebase.js
+│   └── admin.js
+│
+├── img/
+│
+└── banco/
